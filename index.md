@@ -4,7 +4,6 @@
 \
 \
 \
-\
 <span style="font-size:2em">Hello!</span>
 \
 \
@@ -12,6 +11,8 @@
 \
 \
 \
+\
+<img style="float: right;" src="SelfPortrait.jpg">
 <span style="font-size:2em">I'm **Ariana Garcia-Chow**; I'm a passionate game designer, 3-D modeler and animator.</span>
 \
 \
