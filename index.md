@@ -54,14 +54,23 @@ Python
 
 ### <u>Frog's Revenge</u>
 
-Made in 24 hours for a Unity game jam. The theme was "Modernize a Classic". I chose to modernize frogger by adding gameplay elements that give the player more agency and spent a lot of time adding "juice" that i felt was missing in the original 2d version. I modeled, rigged and animated the frog in blender. However, I also modeled and animated the flies in unity.
+Made in 24 hours for a Unity game jam. The theme was "Modernize a Classic". I chose to modernize frogger by adding gameplay elements that give the player more agency and spent a lot of time adding "juice" that I felt was missing in the original 2-D version. I modeled, rigged and animated the tree frog in Blender. However, I chose to model and animate the flies in unity.
+\
+\
+\
+\
+\
+\
+\
 \
 \
 \
 \
 \
 <br/>
-Trick or Treat - made in 1 week
+### <u>MaskTheTruth</u>
+
+- made in 1 week
 
 
 
