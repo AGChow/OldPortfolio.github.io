@@ -19,9 +19,7 @@ Want to get in touch? Send me a  message at <u>arianagchow@gmail.com</u>.
 \
 \
 \
-asdf
 \
-asdf
 \
 <br/>
 ## Background
