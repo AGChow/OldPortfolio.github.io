@@ -5,14 +5,14 @@
 \
 \
 \
-<span style="font-size:5em">Hello!</span>
+<span style="font-size:2em">Hello!</span>
 \
 \
 \
 \
 \
 \
-<span style="font-size:5em">I'm **Ariana Garcia-Chow**; I'm a passionate game designer, 3-D modeler and animator.</span>
+<span style="font-size:2em">I'm **Ariana Garcia-Chow**; I'm a passionate game designer, 3-D modeler and animator.</span>
 \
 \
 \
