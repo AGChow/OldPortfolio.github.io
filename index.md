@@ -12,7 +12,7 @@
 \
 \
 \
-<img style="float: right;" src="SelfPortrait.jpg">
+<img align="right" src="tbd">
 <span style="font-size:2em">I'm **Ariana Garcia-Chow**; I'm a passionate game designer, 3-D modeler and animator.</span>
 \
 \
