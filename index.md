@@ -1,7 +1,5 @@
 \
-&nbsp
 \
-&nbsp
 
 Hello!
 \
