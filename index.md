@@ -9,7 +9,7 @@ Hello!
 I'm **Ariana Garcia-Chow**; I'm a passionate game designer, 3-D modeler and animator.
 \
 \
-Want to get in touch? Send me a  message at <u>arianagchow@gmail.com</u>.
+Want to get in touch? Send me a  message at <span style="color:red"><u>arianagchow@gmail.com</u></span>.
 \
 \
 \
