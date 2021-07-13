@@ -12,7 +12,7 @@
 \
 \
 \
-<img align="right" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/SquareWin.gif">
+<img align="right" src="tbd">
 <span style="font-size:2em">I'm **Ariana Garcia-Chow**; I'm a passionate game designer, 3-D modeler and animator.</span>
 \
 \
@@ -50,8 +50,15 @@ Python
 
 ## <span style="color:red">Projects</span>
 
-Frog's Revenge - made in 24 hours for a Unity game jam. The theme was "Modernize a Classic". I chose to modernize frogger by adding gameplay elements that give the player more agency and spent a lot of time adding "juice" that i felt was missing in the original 2d version. I modeled, rigged and animated the frog in blender. However, I also modeled and animated the flies in unity.
+<img align="left" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/SquareWin.gif">
 
+Frog's Revenge - made in 24 hours for a Unity game jam. The theme was "Modernize a Classic". I chose to modernize frogger by adding gameplay elements that give the player more agency and spent a lot of time adding "juice" that i felt was missing in the original 2d version. I modeled, rigged and animated the frog in blender. However, I also modeled and animated the flies in unity.
+\
+\
+\
+\
+\
+<br/>
 Trick or Treat - made in 1 week
 
 
