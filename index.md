@@ -22,17 +22,17 @@ Want to get in touch? Send me a  message at <span style="color:red"><u>arianagch
 \
 \
 <br/>
-## Background
+## <span style="color:red">Background</span>
 
 I'm a self taught game developer based in **Chicago IL**.
 
-## Skills
+## <span style="color:red">Skills</span>
 blender
 unity
 c#
 python
 
-## Projects
+## <span style="color:red">Projects</span>
 
 
 
