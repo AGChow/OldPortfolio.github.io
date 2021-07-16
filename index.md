@@ -1,4 +1,5 @@
 <link href="Crop.css" rel="stylesheet"></link>
+(setq markdown-css-paths '("/path/to/Crop.css"))
 <br/>
 <br/>
 <br/>
