@@ -12,7 +12,11 @@
 <br/>
 <br/>
 <br/>
-<img align="right" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/BlueOrange.gif">
+
+<div class="image-cropper">
+<img src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/BlueOrange.gif" alt="avatar" class="profile-pic">
+</div>
+
 <br/>
 <br/>
 <br/>
@@ -92,6 +96,8 @@ box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 }
+
+<img align="right" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/BlueOrange.gif">
 
 
 
