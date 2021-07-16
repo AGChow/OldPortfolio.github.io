@@ -10,7 +10,7 @@
 \
 \
 \
-<img align="right" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/BlueOrange.gif">
+<div class="circleborder"><img align="right" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/BlueOrange.gif"/></div>
 \
 \
 \
@@ -77,4 +77,19 @@ https://captainripley.itch.io/frogsrevenge
 - made in 1 week
 
 
+
+.circleborder {
+width: 300px;
+height: 300px;
+border-radius: 150px;
+-webkit-border-radius: 150px;
+-moz-border-radius: 150px;
+background: url(URL) no-repeat;
+box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+}
+
+
+<img align="right" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/BlueOrange.gif">
 
