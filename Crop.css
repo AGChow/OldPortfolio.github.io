@@ -4,7 +4,11 @@
     position: relative;
     overflow: hidden;
     border-radius: 25%;
-    align: Right;
+    
+    position: absolute;
+    right: 0px;
+    padding: 10px;
+    
 }.profile-pic {
   display: inline;
   margin: 0 auto;
