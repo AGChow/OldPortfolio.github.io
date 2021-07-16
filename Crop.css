@@ -4,6 +4,7 @@
     position: relative;
     overflow: hidden;
     border-radius: 25%;
+    align: Right;
 }.profile-pic {
   display: inline;
   margin: 0 auto;
