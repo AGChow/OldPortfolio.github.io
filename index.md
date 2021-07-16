@@ -1,6 +1,5 @@
 <link href="Crop.css" rel="stylesheet"></link>
-(setq markdown-css-paths '("/path/to/Crop.css"))
-<br/>
+<link rel="stylesheet" type="text/css" href="https://github.com/AGChow/AGChow.github.io/blob/main/Crop.css"><br/>
 <br/>
 <br/>
 <br/>
