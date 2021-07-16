@@ -10,7 +10,7 @@
 \
 \
 \
-<img align="right" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/BlueOrangeLarger.gif">
+<img align="right" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/BlueOrange.gif">
 \
 \
 \
