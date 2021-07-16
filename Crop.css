@@ -3,7 +3,7 @@
     height: 300px;
     position: relative;
     overflow: hidden;
-    border-radius: 50%;
+    border-radius: 25%;
 }.profile-pic {
   display: inline;
   margin: 0 auto;
