@@ -10,9 +10,11 @@
 \
 \
 \
-\
-\
 <img align="right" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/BlueOrangeLarger.gif">
+\
+\
+\
+\
 <span style="font-size:2em">I'm **Ariana Garcia-Chow**; I'm an independent contractor, game designer, 3-D modeler and animator who loves tinkering and creating.</span>
 \
 \
