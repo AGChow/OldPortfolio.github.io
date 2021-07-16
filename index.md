@@ -1,42 +1,42 @@
 <link href="crop.css" rel="stylesheet"></link>
 <br/>
-\
-\
-\
-\
-\
-\
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <span style="font-size:2em">Hello!</span>
-\
-\
-\
-\
-\
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <img align="right" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/BlueOrange.gif">
-\
-\
-\
-\
+<br/>
+<br/>
+<br/>
+<br/>
 <span style="font-size:2em">I'm **Ariana Garcia-Chow**; I'm an independent contractor, game designer, 3-D modeler and animator who loves tinkering and creating.</span>
-\
-\
-\
+<br/>
+<br/>
+<br/>
 Want to get in touch? Send me a  message at <span style="color:red"><u>arianagchow@gmail.com</u></span>.
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 ## <span style="color:red">Background</span>
 <img align="left" src="tbd">
