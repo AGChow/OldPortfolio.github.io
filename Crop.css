@@ -3,7 +3,7 @@
     height: 100px;
     overflow: hidden;
     border-radius: 50%;
-    position: relative;
+    float: right;
 }
 .profile-pic {
   display: inline;
