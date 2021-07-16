@@ -4,12 +4,11 @@
     position: relative;
     overflow: hidden;
     border-radius: 25%;
-    
     position: absolute;
     right: 0px;
-    padding: 10px;
-    
-}.profile-pic {
+    padding: 10px;  
+}
+.profile-pic {
   display: inline;
   margin: 0 auto;
   margin-left: -25%; //centers the image
