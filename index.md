@@ -11,7 +11,7 @@
 <br/>
 <br/>
 <br/>
-<div align="right" class="image-cropper">
+<div class="image-cropper">
 <img src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/BlueOrange.gif" alt="avatar" class="profile-pic">
 </div>
 <br/>
