@@ -1,3 +1,16 @@
+.image-cropper {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}.profile-pic {
+  display: inline;
+  margin: 0 auto;
+  margin-left: -25%; //centers the image
+  height: 100%;
+  width: auto;
+}
 \
 \
 \
@@ -10,8 +23,7 @@
 \
 \
 \
-<br/>
-<class="circleborder"><img align="right" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/BlueOrange.gif"/>
+<img align="right" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/BlueOrange.gif">
 \
 \
 \
@@ -92,5 +104,4 @@ box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 }
 
 
-<img align="right" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/BlueOrange.gif">
 
