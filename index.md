@@ -1,4 +1,3 @@
-<link href="Crop.css" rel="stylesheet"></link>
 <link rel="stylesheet" type="text/css" href="https://github.com/AGChow/AGChow.github.io/blob/main/Crop.css"><br/>
 <br/>
 <br/>
