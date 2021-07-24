@@ -80,8 +80,7 @@ https://captainripley.itch.io/frogsrevenge
 
 ### <u>MaskTheTruth</u>
 
-- made in 1 week
-
+- This was made in 1 week for a Halloween Game Jam. It's an interactive diorama where the player can trick or treat around the neighborhood. There are interactive elements like a soccer field. Motivated players might choose to kick the ball into the net, and it'll result in a big drop of candies for the player. There is also a cute haunted house and a giant jack o lantern for the player to see. I modeled the main character and designed the space. I also wrote the code base for this project. I was aiming for a sort of relaxed small town feel. 
 
 
 .circleborder {
