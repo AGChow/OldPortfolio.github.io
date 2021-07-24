@@ -75,12 +75,12 @@ https://captainripley.itch.io/frogsrevenge
 \
 <br/>
 
-<img align="left" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/MaskTheTruthGif.gif">
+<img align="left" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/DuckAdventure.gif">
 
 
-### <u>MaskTheTruth</u>
+### <u>Duck Adventure</u>
 
-This was made in 1 week for a Halloween Game Jam. It's an interactive diorama where the player can trick or treat around the neighborhood. There are interactive elements like a soccer field. Motivated players might choose to kick the ball into the net, and it'll result in a big drop of candies for the player. There is also a cute haunted house and a giant jack o lantern for the player to see. I modeled the main character and designed the space. I also wrote the code base for this project. I was aiming for a sort of relaxed small town feel. 
+This was made over the course of one week. I modeled, rigged, and animated the duck myself and wrote the codebase. I took special notice on this game to include non intrusive tutorials and a couple of levels for the player to advance in. I added a boost for later obstacles and player expression. I also added areas for the duck to be able to hide from enemies.
 \
 \
 \
@@ -94,13 +94,12 @@ This was made in 1 week for a Halloween Game Jam. It's an interactive diorama wh
 \
 <br/>
 
-<img align="right" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/DuckAdventure.gif">
+<img align="right" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/MaskTheTruthGif.gif">
 
 
-### <u>Duck Adventure</u>
+### <u>MaskTheTruth</u>
 
-This was made over the course of one week. I modeled, rigged, and animated the duck myself and wrote the codebase. I took special notice on this game to include non intrusive tutorials and a couple of levels for the player to advance in. I added a boost for later obstacles and player expression. I also added areas for the duck to be able to hide from enemies.
-
+This was made in 1 week for a Halloween Game Jam. It's an interactive diorama where the player can trick or treat around the neighborhood. There are interactive elements like a soccer field. Motivated players might choose to kick the ball into the net, and it'll result in a big drop of candies for the player. There is also a cute haunted house and a giant jack o lantern for the player to see. I modeled the main character and designed the space. I also wrote the code base for this project. I was aiming for a sort of relaxed small town feel. 
 \
 \
 \
