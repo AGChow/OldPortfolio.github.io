@@ -94,7 +94,7 @@ This was made in 1 week for a Halloween Game Jam. It's an interactive diorama wh
 \
 <br/>
 
-<img align="center" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/DuckAdventure.gif">
+<img align="right" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/DuckAdventure.gif">
 
 
 ### <u>Duck Adventure</u>
