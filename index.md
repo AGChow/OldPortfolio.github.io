@@ -13,11 +13,7 @@
 <br/>
 <br/>
 <br/>
-<div class="image-cropper">
-<img src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/BlueOrange.gif" alt="avatar" class="profile-pic">
-</div>
-<br/>
-<br/>
+<img align="right" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/BlueOrange.gif">
 <br/>
 <br/>
 <span style="font-size:2em">I'm **Ariana Garcia-Chow**; I'm an independent contractor, game designer, 3-D modeler and animator who loves tinkering and creating.</span>
