@@ -74,6 +74,10 @@ https://captainripley.itch.io/frogsrevenge
 \
 \
 <br/>
+
+<img align="left" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/MaskTheTruthGif.gif">
+
+
 ### <u>MaskTheTruth</u>
 
 - made in 1 week
@@ -92,7 +96,7 @@ box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 }
 
-<img align="right" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/BlueOrange.gif">
+<img align="left" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/MaskTheTruthGif.gif">
 
 
 
