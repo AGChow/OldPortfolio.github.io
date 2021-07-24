@@ -62,7 +62,8 @@ I'm a self taught game developer based in **Chicago IL**. Like many, I grew up a
 
 Made in 24 hours for a Unity game jam. The theme was "Modernize a Classic". I chose to modernize frogger by adding gameplay elements that give the player more agency and spent a lot of time adding "juice" that I felt was missing in the original 2-D version. I modeled, rigged and animated the tree frog in Blender. However, I chose to model and animate the flies in unity.
 
-https://captainripley.itch.io/frogsrevenge
+
+<a href="https://captainripley.itch.io/frogsrevenge">itch.io/frogsrevenge</a>
 \
 \
 \
@@ -84,7 +85,7 @@ https://captainripley.itch.io/frogsrevenge
 
 This was made over the course of one week. I modeled, rigged, and animated the duck myself and wrote the codebase. I took special notice on this game to include non intrusive tutorials and a couple of levels for the player to advance in. I added a boost for later obstacles and player expression. I also added areas for the duck to be able to hide from enemies.
 
-https://captainripley.itch.io/duckadvent
+<a href="https://captainripley.itch.io/duckadvent">itch.io/duckadvent</a>
 \
 \
 \
@@ -105,7 +106,8 @@ https://captainripley.itch.io/duckadvent
 
 This was made in 1 week for a Halloween Game Jam. It's an interactive diorama where the player can trick or treat around the neighborhood. There are interactive elements like a soccer field. Motivated players might choose to kick the ball into the net, and it'll result in a big drop of candies for the player. There is also a cute haunted house and a giant jack o lantern for the player to see. I modeled the main character and designed the space. I also wrote the code base for this project. I was aiming for a sort of relaxed small town feel. 
 
-https://captainripley.itch.io/maskthetruth
+
+<a href="https://captainripley.itch.io/maskthetruth">itch.io/maskthetruth</a>
 \
 \
 \
