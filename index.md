@@ -81,19 +81,27 @@ https://captainripley.itch.io/frogsrevenge
 ### <u>MaskTheTruth</u>
 
 - This was made in 1 week for a Halloween Game Jam. It's an interactive diorama where the player can trick or treat around the neighborhood. There are interactive elements like a soccer field. Motivated players might choose to kick the ball into the net, and it'll result in a big drop of candies for the player. There is also a cute haunted house and a giant jack o lantern for the player to see. I modeled the main character and designed the space. I also wrote the code base for this project. I was aiming for a sort of relaxed small town feel. 
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
 
 
-.circleborder {
-width: 300px;
-height: 300px;
-border-radius: 150px;
--webkit-border-radius: 150px;
--moz-border-radius: 150px;
-background: url(URL) no-repeat;
-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
--webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
--moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-}
 
 <img align="left" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/MaskTheTruthGif.gif">
 
