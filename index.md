@@ -119,7 +119,5 @@ This was made in 1 week for a Halloween Game Jam. It's an interactive diorama wh
 \
 \
 \
+<br/>
 <img align="Center" src="tbd">
-
-
-
