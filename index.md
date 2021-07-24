@@ -46,11 +46,11 @@ I'm a self taught game developer based in **Chicago IL**. Like many, I grew up a
 
 ## <span style="color:red">Skills</span>
 ### Programs
-blender
-unity
+- Blender
+- Unity
 ### Languages
-C#
-Python
+- C#
+- Python
 
 ## <span style="color:red">Projects</span>
 
@@ -119,11 +119,6 @@ This was made in 1 week for a Halloween Game Jam. It's an interactive diorama wh
 \
 \
 \
-
-
-
-
-
 <img align="Center" src="tbd">
 
 
