@@ -75,7 +75,6 @@ Made in 24 hours for a Unity game jam. The theme was "Modernize a Classic". I ch
 \
 \
 \
-\
 <br/>
 
 <img align="left" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/DuckAdventure.gif">
@@ -108,13 +107,6 @@ This was made in 1 week for a Halloween Game Jam. It's an interactive diorama wh
 
 
 <a href="https://captainripley.itch.io/maskthetruth">itch.io/maskthetruth</a>
-\
-\
-\
-\
-\
-\
-\
 \
 \
 \
