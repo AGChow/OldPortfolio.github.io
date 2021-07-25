@@ -93,9 +93,6 @@ This was made over the course of one week. I modeled, rigged, and animated the d
 \
 \
 \
-\
-\
-\
 <br/>
 
 <img align="right" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/MaskTheTruthGif.gif">
