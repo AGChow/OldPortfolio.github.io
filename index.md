@@ -39,7 +39,10 @@ Want to get in touch? Send me a  message at <span style="color:red"><u>arianagch
 <br/>
 
 ## <span style="color:red">Background</span>
-<img align="left" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/PosewithMurphy.gif">
+<br/>
+<br/>
+<br/>
+<img align="left" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/PoseWithMurphy%20(2).gif">
 
 
 I'm a self taught game developer based in **Chicago IL**. Like many, I grew up and fell in love with video games in my youth, but, as I grow older, the artistry and engineering required to craft these experiences continues to hold my attention. My goal is to eventually work on AR/VR applications and experiences. 
@@ -53,6 +56,9 @@ I'm a self taught game developer based in **Chicago IL**. Like many, I grew up a
 ### Languages
 - C#
 - Python
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
