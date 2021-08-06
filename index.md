@@ -63,6 +63,7 @@ I'm a self taught game dev based in **Chicago IL**. Like many, I grew up and fel
 <br/>
 <br/>
 <br/>
+
 ## <span style="color:red">Projects</span>
 
 <img align="right" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/SquareWinResized1.gif">
