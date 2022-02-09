@@ -52,6 +52,8 @@ I'm a self taught game dev based in **Chicago IL**. Like many, I grew up and fel
 ### Programs
 - Blender
 - Unity
+- Adobe Illustrator
+- Adobe Photoshop
 
 ### Languages
 - C#
