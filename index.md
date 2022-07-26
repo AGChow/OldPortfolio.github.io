@@ -45,7 +45,7 @@ Want to get in touch? Send me a  message at <span style="color:red"><u>arianagch
 <img align="left" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/PoseWithMurphy%20(2).gif">
 
 
-I'm a self taught game dev based in **Chicago IL**. Like many, I grew up and fell in love with video games in my youth, but, as I grow older, the artistry and engineering required to craft these experiences continues to hold my attention. Thus, I enjoy working on 3d models and animations as well as designing systems of fun interactivity. My goal is to eventually work on AR/VR applications and experiences. 
+I'm a self taught game dev based in **Chicago IL**. Like many, I grew up and fell in love with video games in my youth, but, as I grow older, the artistry and engineering required to craft these experiences continues to hold my attention. Thus, I enjoy working on 3d models and animations as well as designing fun interactive systems.
 
 ## <span style="color:red">Skills</span>
 
