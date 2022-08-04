@@ -54,7 +54,6 @@ I'm a self taught game dev based in **Chicago IL**. Like many, I grew up and fel
 - Unity 3D
 - Visual Studio Code
 - Source Control via Git
-- Adobe Illustrator
 - Adobe Photoshop
 
 ### Languages
