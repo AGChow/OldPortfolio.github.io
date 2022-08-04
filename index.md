@@ -71,13 +71,13 @@ I'm a self taught game dev based in **Chicago IL**. Like many, I grew up and fel
 
 ## <span style="color:red">Projects</span>
 
-<img align="right" src="https://github.com/AGChow/AGChow.github.io/blob/main/ForsakenFlame.gif?raw=true">
+<img align="left" src="https://github.com/AGChow/AGChow.github.io/blob/main/ForsakenFlame.gif?raw=true">
 
 ### <u>Forsaken Flame</u>
 
 Made in a month with a group of four devs. We designed the puzzles around the central mechanic of throwing and recalling a flaming sword. This sword had properties and we made it so that every puzzle revealed something new about how player can use the sword to interact with the world. We designed a final boss battle with three stages that increased in difficulty. The boss, we felt, was only beatable if the players had internalized the lessons of the previous levels. 
 
-<a href="https://kevin-hill.itch.io/the-forsaken-flame</a>
+<a href="https://kevin-hill.itch.io/the-forsaken-flame"</a>
 \
 \
 \
