@@ -51,13 +51,16 @@ I'm a self taught game dev based in **Chicago IL**. Like many, I grew up and fel
 
 ### Programs
 - Blender
-- Unity
+- Unity 3D
+- Visual Studio Code
+- Source Control via Git
 - Adobe Illustrator
 - Adobe Photoshop
 
 ### Languages
 - C#
 - Python
+- GDScript
 <br/>
 <br/>
 <br/>
@@ -68,6 +71,25 @@ I'm a self taught game dev based in **Chicago IL**. Like many, I grew up and fel
 
 ## <span style="color:red">Projects</span>
 
+<img align="right" src="https://github.com/AGChow/AGChow.github.io/blob/main/ForsakenFlame.gif?raw=true">
+
+### <u>Forsaken Flame</u>
+
+Made in a month with a group of four devs. We designed the puzzles around the central mechanic of throwing and recalling a flaming sword. This sword had properties and we made it so that every puzzle revealed something new about how player can use the sword to interact with the world. We designed a final boss battle with three stages that increased in difficulty. The boss, we felt, was only beatable if the players had internalized the lessons of the previous levels. 
+
+<a href="https://kevin-hill.itch.io/the-forsaken-flame</a>
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+<br/>
 <img align="right" src="https://raw.githubusercontent.com/AGChow/AGChow.github.io/main/SquareWinResized1.gif">
 
 ### <u>Frog's Revenge</u>
